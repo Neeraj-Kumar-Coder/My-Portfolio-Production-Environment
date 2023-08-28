@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-Portfolio-Production-Environment/static/css/main.c9cd90f3.css",
-    "main.js": "/My-Portfolio-Production-Environment/static/js/main.fcc846b7.js",
+    "main.css": "/My-Portfolio-Production-Environment/static/css/main.84f4280b.css",
+    "main.js": "/My-Portfolio-Production-Environment/static/js/main.dc5a486a.js",
     "static/js/787.312fc7b5.chunk.js": "/My-Portfolio-Production-Environment/static/js/787.312fc7b5.chunk.js",
     "static/media/HVD Fonts - BrandonText-Bold.otf": "/My-Portfolio-Production-Environment/static/media/HVD Fonts - BrandonText-Bold.db5fce6eca3a6acc86c1.otf",
     "static/media/HVD Fonts - BrandonText-Thin.otf": "/My-Portfolio-Production-Environment/static/media/HVD Fonts - BrandonText-Thin.f22ef73c652e8173f163.otf",
@@ -9,12 +9,12 @@
     "static/media/HVD Fonts - BrandonText-Regular.otf": "/My-Portfolio-Production-Environment/static/media/HVD Fonts - BrandonText-Regular.83620198839e84ef5e4c.otf",
     "static/media/EuropaGroteskSH-Med.otf": "/My-Portfolio-Production-Environment/static/media/EuropaGroteskSH-Med.0af690d1a348925469b4.otf",
     "index.html": "/My-Portfolio-Production-Environment/index.html",
-    "main.c9cd90f3.css.map": "/My-Portfolio-Production-Environment/static/css/main.c9cd90f3.css.map",
-    "main.fcc846b7.js.map": "/My-Portfolio-Production-Environment/static/js/main.fcc846b7.js.map",
+    "main.84f4280b.css.map": "/My-Portfolio-Production-Environment/static/css/main.84f4280b.css.map",
+    "main.dc5a486a.js.map": "/My-Portfolio-Production-Environment/static/js/main.dc5a486a.js.map",
     "787.312fc7b5.chunk.js.map": "/My-Portfolio-Production-Environment/static/js/787.312fc7b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9cd90f3.css",
-    "static/js/main.fcc846b7.js"
+    "static/css/main.84f4280b.css",
+    "static/js/main.dc5a486a.js"
   ]
 }
