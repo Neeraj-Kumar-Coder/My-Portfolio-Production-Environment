@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/My-Portfolio-Production-Environment/static/css/main.3988f9eb.css",
+    "main.css": "/My-Portfolio-Production-Environment/static/css/main.5a6e9b9c.css",
     "main.js": "/My-Portfolio-Production-Environment/static/js/main.96a023e6.js",
     "static/js/787.312fc7b5.chunk.js": "/My-Portfolio-Production-Environment/static/js/787.312fc7b5.chunk.js",
     "static/media/HVD Fonts - BrandonText-Bold.otf": "/My-Portfolio-Production-Environment/static/media/HVD Fonts - BrandonText-Bold.db5fce6eca3a6acc86c1.otf",
@@ -9,12 +9,12 @@
     "static/media/HVD Fonts - BrandonText-Regular.otf": "/My-Portfolio-Production-Environment/static/media/HVD Fonts - BrandonText-Regular.83620198839e84ef5e4c.otf",
     "static/media/EuropaGroteskSH-Med.otf": "/My-Portfolio-Production-Environment/static/media/EuropaGroteskSH-Med.0af690d1a348925469b4.otf",
     "index.html": "/My-Portfolio-Production-Environment/index.html",
-    "main.3988f9eb.css.map": "/My-Portfolio-Production-Environment/static/css/main.3988f9eb.css.map",
+    "main.5a6e9b9c.css.map": "/My-Portfolio-Production-Environment/static/css/main.5a6e9b9c.css.map",
     "main.96a023e6.js.map": "/My-Portfolio-Production-Environment/static/js/main.96a023e6.js.map",
     "787.312fc7b5.chunk.js.map": "/My-Portfolio-Production-Environment/static/js/787.312fc7b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3988f9eb.css",
+    "static/css/main.5a6e9b9c.css",
     "static/js/main.96a023e6.js"
   ]
 }
