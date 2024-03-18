@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/My-Portfolio-Production-Environment/static/css/main.5a6e9b9c.css",
-    "main.js": "/My-Portfolio-Production-Environment/static/js/main.dc6214bd.js",
-    "static/js/787.312fc7b5.chunk.js": "/My-Portfolio-Production-Environment/static/js/787.312fc7b5.chunk.js",
+    "main.css": "/My-Portfolio-Production-Environment/static/css/main.bf484791.css",
+    "main.js": "/My-Portfolio-Production-Environment/static/js/main.d80a5559.js",
+    "static/js/787.6169c7db.chunk.js": "/My-Portfolio-Production-Environment/static/js/787.6169c7db.chunk.js",
     "static/media/HVD Fonts - BrandonText-Bold.otf": "/My-Portfolio-Production-Environment/static/media/HVD Fonts - BrandonText-Bold.db5fce6eca3a6acc86c1.otf",
     "static/media/HVD Fonts - BrandonText-Thin.otf": "/My-Portfolio-Production-Environment/static/media/HVD Fonts - BrandonText-Thin.f22ef73c652e8173f163.otf",
     "static/media/HVD Fonts - BrandonText-Light.otf": "/My-Portfolio-Production-Environment/static/media/HVD Fonts - BrandonText-Light.822492ebfd632c031fdd.otf",
     "static/media/HVD Fonts - BrandonText-Regular.otf": "/My-Portfolio-Production-Environment/static/media/HVD Fonts - BrandonText-Regular.83620198839e84ef5e4c.otf",
     "static/media/EuropaGroteskSH-Med.otf": "/My-Portfolio-Production-Environment/static/media/EuropaGroteskSH-Med.0af690d1a348925469b4.otf",
     "index.html": "/My-Portfolio-Production-Environment/index.html",
-    "main.5a6e9b9c.css.map": "/My-Portfolio-Production-Environment/static/css/main.5a6e9b9c.css.map",
-    "main.dc6214bd.js.map": "/My-Portfolio-Production-Environment/static/js/main.dc6214bd.js.map",
-    "787.312fc7b5.chunk.js.map": "/My-Portfolio-Production-Environment/static/js/787.312fc7b5.chunk.js.map"
+    "main.bf484791.css.map": "/My-Portfolio-Production-Environment/static/css/main.bf484791.css.map",
+    "main.d80a5559.js.map": "/My-Portfolio-Production-Environment/static/js/main.d80a5559.js.map",
+    "787.6169c7db.chunk.js.map": "/My-Portfolio-Production-Environment/static/js/787.6169c7db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a6e9b9c.css",
-    "static/js/main.dc6214bd.js"
+    "static/css/main.bf484791.css",
+    "static/js/main.d80a5559.js"
   ]
 }
